@@ -16,7 +16,7 @@ categories:
 
 # nuxt-metiuan
 
-> 项目源码及开发简记已上传github：[nuxt-meituan](https://github.com/noobakong/koa-nuxt-meituan)
+项目源码及开发简记已上传github：[nuxt-meituan](https://github.com/noobakong/koa-nuxt-meituan)
 
 ## 项目收获
 

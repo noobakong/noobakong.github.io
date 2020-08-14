@@ -87,7 +87,7 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    "logo": "/favicon.ico",
+    // "logo": "/favicon.ico",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
