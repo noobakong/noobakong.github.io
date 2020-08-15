@@ -46,9 +46,19 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "text": "阿孔的GitHub",
+            "link": "https://github.com/noobakong",
             "icon": "reco-github"
+          },
+          {
+            "text": "阿孔的掘金",
+            "link": "https://juejin.im/user/3104676568113975",
+            "icon": "reco-juejin"
+          },
+          {
+            "text": "阿孔的语雀",
+            "link": "https://www.yuque.com/noobakong",
+            "icon": "reco-blog"
           }
         ]
       }
@@ -90,8 +100,8 @@ module.exports = {
     // "logo": "/favicon.ico",
     "search": true,
     "searchMaxSuggestions": 10,
-    "lastUpdated": "Last Updated",
-    "author": "",
+    "lastUpdated": "最后更新于",
+    "author": "akong",
     "authorAvatar": "/touxiang.jpg",
     "record": "xxxx",
     "startYear": "2018"
